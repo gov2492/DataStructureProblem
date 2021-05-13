@@ -12,6 +12,6 @@ class Derived extends Base {
     }
     public static void main(String[] args) {
         Base obj = new Derived();
-         obj.fun();
+         //obj.fun();
     }
 }
